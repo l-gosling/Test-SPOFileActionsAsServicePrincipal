@@ -1,0 +1,12 @@
+<Configuration>
+    <ServicePrincipal>
+        <TenantId>your-tenant-id</TenantId>
+        <AppId>your-app-id</AppId>
+        <ClientSecret>your-clientSecret-id</ClientSecret>
+    </ServicePrincipal>
+    <SPO>
+        <SiteId>your-sharepoint-site-id</SiteId>
+        <DriveId>your-sharepoint-drive-id</DriveId>
+        <FilePath>/your-sharepoint-relative-path</FilePath>
+    </SPO>
+</Configuration>
